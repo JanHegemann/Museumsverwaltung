@@ -21,7 +21,7 @@ public class Exponathinzufuegen implements ActionListener
         JTextField tf2=new JTextField ();
         JTextField tf3=new JTextField ();
         tf1.setText("Alter");
-        tf2.setText("Kuenstler"
+        tf2.setText("Kuenstler");
     }
 
     public static void main (){
