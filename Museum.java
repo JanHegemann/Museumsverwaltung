@@ -3,7 +3,7 @@
  */
 public class Museum 
 {
-    /* Attribute */
+    /* Attribute TEst */
     private Exponat[] gesamtkapazitaet=new Exponat [400];
     private int anzahlExponate=0;
     /* Methoden */
