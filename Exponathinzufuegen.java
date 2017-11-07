@@ -17,7 +17,11 @@ public class Exponathinzufuegen implements ActionListener
         panel.setVisible(true);
         label1.setVisible(true);
         addButton(button1, "Exponat hinzufuegen");
-        JTextField tf=new JTextField ();
+        JTextField tf1=new JTextField ();
+        JTextField tf2=new JTextField ();
+        JTextField tf3=new JTextField ();
+        tf1.setText("Alter");
+        tf2.setText("Kuenstler"
     }
 
     public static void main (){
